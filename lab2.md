@@ -1,5 +1,7 @@
 # Containerization Lab - Docker
 
+## Overview
+
 In this lab assignment, you will learn to containerize applications using Docker, while focusing on best practices. Additionally, you will explore Docker multi-stage builds. Follow the tasks below to complete the lab assignment.
 
 ## Task 1: Dockerize Your Application
@@ -40,7 +42,7 @@ In this lab assignment, you will learn to containerize applications using Docker
      - How to build?
      - How to pull?
      - How to run?
-  
+
 ## Bonus Task: Multi-Stage Builds Exploration
 
 **To earn an additional 2.5 points:**
